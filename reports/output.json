@@ -6,10 +6,10 @@
     "edges": 376,
     "isDAG": true,
     "numSCC": 34,
-    "tarjan_ms": 0.496901,
-    "topo_ms": 2.3152,
-    "shortest_ms": 1.4038,
-    "longest_ms": 1.5713
+    "tarjan_ms": 0.680299,
+    "topo_ms": 1.3486,
+    "shortest_ms": 1.3039,
+    "longest_ms": 0.952001
   },
   {
     "id": 8,
@@ -18,10 +18,10 @@
     "edges": 352,
     "isDAG": false,
     "numSCC": 1,
-    "tarjan_ms": 0.5364,
-    "topo_ms": 0.0248,
-    "shortest_ms": 0.032999,
-    "longest_ms": 0.0174
+    "tarjan_ms": 0.605501,
+    "topo_ms": 0.0193,
+    "shortest_ms": 0.023,
+    "longest_ms": 0.0137
   },
   {
     "id": 9,
@@ -30,10 +30,10 @@
     "edges": 88,
     "isDAG": true,
     "numSCC": 33,
-    "tarjan_ms": 0.2156,
-    "topo_ms": 0.1784,
-    "shortest_ms": 0.3241,
-    "longest_ms": 0.4716
+    "tarjan_ms": 0.1926,
+    "topo_ms": 0.1427,
+    "shortest_ms": 0.282199,
+    "longest_ms": 0.292201
   },
   {
     "id": 4,
@@ -42,10 +42,10 @@
     "edges": 218,
     "isDAG": false,
     "numSCC": 1,
-    "tarjan_ms": 0.332399,
-    "topo_ms": 0.0149,
-    "shortest_ms": 0.0236,
-    "longest_ms": 0.0167
+    "tarjan_ms": 0.233299,
+    "topo_ms": 0.014501,
+    "shortest_ms": 0.0219,
+    "longest_ms": 0.0149
   },
   {
     "id": 5,
@@ -54,10 +54,10 @@
     "edges": 38,
     "isDAG": true,
     "numSCC": 15,
-    "tarjan_ms": 0.128801,
-    "topo_ms": 0.082101,
-    "shortest_ms": 0.1549,
-    "longest_ms": 0.1583
+    "tarjan_ms": 0.053299,
+    "topo_ms": 0.070899,
+    "shortest_ms": 0.131001,
+    "longest_ms": 0.1347
   },
   {
     "id": 6,
@@ -66,10 +66,10 @@
     "edges": 51,
     "isDAG": false,
     "numSCC": 1,
-    "tarjan_ms": 0.3628,
-    "topo_ms": 0.0144,
-    "shortest_ms": 0.0223,
-    "longest_ms": 0.0359
+    "tarjan_ms": 0.0752,
+    "topo_ms": 0.0153,
+    "shortest_ms": 0.019199,
+    "longest_ms": 0.027701
   },
   {
     "id": 1,
@@ -78,10 +78,10 @@
     "edges": 15,
     "isDAG": false,
     "numSCC": 2,
-    "tarjan_ms": 0.0439,
-    "topo_ms": 0.0174,
-    "shortest_ms": 0.0291,
-    "longest_ms": 0.026999
+    "tarjan_ms": 0.049201,
+    "topo_ms": 0.026001,
+    "shortest_ms": 0.035999,
+    "longest_ms": 0.040401
   },
   {
     "id": 2,
@@ -90,10 +90,10 @@
     "edges": 9,
     "isDAG": true,
     "numSCC": 10,
-    "tarjan_ms": 0.1906,
-    "topo_ms": 0.041001,
-    "shortest_ms": 0.0857,
-    "longest_ms": 0.0752
+    "tarjan_ms": 0.0262,
+    "topo_ms": 0.0316,
+    "shortest_ms": 0.0653,
+    "longest_ms": 0.0613
   },
   {
     "id": 3,
@@ -102,9 +102,9 @@
     "edges": 19,
     "isDAG": true,
     "numSCC": 9,
-    "tarjan_ms": 0.1125,
-    "topo_ms": 0.0528,
-    "shortest_ms": 0.0946,
-    "longest_ms": 0.0899
+    "tarjan_ms": 0.0355,
+    "topo_ms": 0.051301,
+    "shortest_ms": 0.0972,
+    "longest_ms": 0.0774
   }
 ]

@@ -1,0 +1,10 @@
+file,n,edges,isDAG,sccCount,topoTimeMs,dagSpTimeMs,memoTimeMs
+large_7.json,34,376,true,34,0.449101,0.919000,0.919000
+large_8.json,30,352,false,1,0.158500,0.023300,0.023300
+large_9.json,33,88,true,33,0.147400,0.291000,0.291000
+medium_4.json,19,218,false,1,0.153300,0.044000,0.044000
+medium_5.json,15,38,true,15,0.099400,0.216500,0.216500
+medium_6.json,12,51,false,1,0.076800,0.040300,0.040300
+small_1.json,6,15,false,2,0.060300,0.028300,0.028300
+small_2.json,10,9,true,10,0.033400,0.063200,0.063200
+small_3.json,9,19,true,9,0.081799,0.155301,0.155301

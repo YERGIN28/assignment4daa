@@ -8,92 +8,40 @@
     "D",
     "E",
     "F",
-    "G",
-    "H"
+    "G"
   ],
   "durations": {
-    "A": 3,
-    "B": 2,
-    "C": 12,
-    "D": 9,
-    "E": 12,
-    "F": 4,
-    "G": 5,
-    "H": 3
+    "A": 12,
+    "B": 5,
+    "C": 8,
+    "D": 13,
+    "E": 10,
+    "F": 15,
+    "G": 3
   },
   "edges": [
     {
-      "from": "A",
-      "to": "H",
-      "w": 13
-    },
-    {
-      "from": "B",
-      "to": "C",
-      "w": 2
-    },
-    {
       "from": "B",
       "to": "D",
-      "w": 14
+      "w": 11
     },
     {
-      "from": "B",
-      "to": "H",
+      "from": "C",
+      "to": "D",
       "w": 7
     },
     {
       "from": "C",
-      "to": "A",
-      "w": 6
-    },
-    {
-      "from": "C",
-      "to": "D",
-      "w": 10
-    },
-    {
-      "from": "C",
-      "to": "H",
-      "w": 8
+      "to": "G",
+      "w": 11
     },
     {
       "from": "D",
       "to": "E",
-      "w": 18
-    },
-    {
-      "from": "E",
-      "to": "B",
-      "w": 9
-    },
-    {
-      "from": "E",
-      "to": "G",
-      "w": 16
-    },
-    {
-      "from": "F",
-      "to": "C",
-      "w": 12
-    },
-    {
-      "from": "G",
-      "to": "E",
-      "w": 1
-    },
-    {
-      "from": "G",
-      "to": "H",
-      "w": 6
-    },
-    {
-      "from": "H",
-      "to": "B",
-      "w": 7
+      "w": 19
     }
   ],
-  "isDAG": false,
-  "numSCC": 2,
-  "meta": "nodes\u003d8 edges\u003d14 isDAG\u003dfalse sccs\u003d2"
+  "isDAG": true,
+  "numSCC": 7,
+  "meta": "nodes\u003d7 edges\u003d4 isDAG\u003dtrue sccs\u003d7"
 }

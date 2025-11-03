@@ -11,37 +11,72 @@
     "G"
   ],
   "durations": {
-    "A": 2,
-    "B": 8,
-    "C": 10,
-    "D": 9,
-    "E": 2,
-    "F": 14,
-    "G": 3
+    "A": 8,
+    "B": 5,
+    "C": 12,
+    "D": 14,
+    "E": 15,
+    "F": 10,
+    "G": 10
   },
   "edges": [
     {
-      "from": "B",
-      "to": "F",
-      "w": 9
-    },
-    {
-      "from": "D",
-      "to": "E",
+      "from": "A",
+      "to": "C",
       "w": 19
     },
     {
-      "from": "D",
+      "from": "A",
+      "to": "E",
+      "w": 9
+    },
+    {
+      "from": "A",
+      "to": "G",
+      "w": 14
+    },
+    {
+      "from": "B",
+      "to": "C",
+      "w": 3
+    },
+    {
+      "from": "B",
+      "to": "E",
+      "w": 11
+    },
+    {
+      "from": "B",
       "to": "F",
-      "w": 17
+      "w": 19
+    },
+    {
+      "from": "B",
+      "to": "G",
+      "w": 1
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "w": 18
+    },
+    {
+      "from": "C",
+      "to": "E",
+      "w": 14
     },
     {
       "from": "D",
-      "to": "G",
+      "to": "F",
       "w": 3
+    },
+    {
+      "from": "E",
+      "to": "F",
+      "w": 14
     }
   ],
   "isDAG": true,
   "numSCC": 7,
-  "meta": "nodes\u003d7 edges\u003d4 isDAG\u003dtrue sccs\u003d7"
+  "meta": "nodes\u003d7 edges\u003d11 isDAG\u003dtrue sccs\u003d7"
 }
