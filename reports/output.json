@@ -1,0 +1,110 @@
+[
+  {
+    "id": 7,
+    "category": "large",
+    "nodes": 34,
+    "edges": 376,
+    "isDAG": true,
+    "numSCC": 34,
+    "tarjan_ms": 0.496901,
+    "topo_ms": 2.3152,
+    "shortest_ms": 1.4038,
+    "longest_ms": 1.5713
+  },
+  {
+    "id": 8,
+    "category": "large",
+    "nodes": 30,
+    "edges": 352,
+    "isDAG": false,
+    "numSCC": 1,
+    "tarjan_ms": 0.5364,
+    "topo_ms": 0.0248,
+    "shortest_ms": 0.032999,
+    "longest_ms": 0.0174
+  },
+  {
+    "id": 9,
+    "category": "large",
+    "nodes": 33,
+    "edges": 88,
+    "isDAG": true,
+    "numSCC": 33,
+    "tarjan_ms": 0.2156,
+    "topo_ms": 0.1784,
+    "shortest_ms": 0.3241,
+    "longest_ms": 0.4716
+  },
+  {
+    "id": 4,
+    "category": "medium",
+    "nodes": 19,
+    "edges": 218,
+    "isDAG": false,
+    "numSCC": 1,
+    "tarjan_ms": 0.332399,
+    "topo_ms": 0.0149,
+    "shortest_ms": 0.0236,
+    "longest_ms": 0.0167
+  },
+  {
+    "id": 5,
+    "category": "medium",
+    "nodes": 15,
+    "edges": 38,
+    "isDAG": true,
+    "numSCC": 15,
+    "tarjan_ms": 0.128801,
+    "topo_ms": 0.082101,
+    "shortest_ms": 0.1549,
+    "longest_ms": 0.1583
+  },
+  {
+    "id": 6,
+    "category": "medium",
+    "nodes": 12,
+    "edges": 51,
+    "isDAG": false,
+    "numSCC": 1,
+    "tarjan_ms": 0.3628,
+    "topo_ms": 0.0144,
+    "shortest_ms": 0.0223,
+    "longest_ms": 0.0359
+  },
+  {
+    "id": 1,
+    "category": "small",
+    "nodes": 6,
+    "edges": 15,
+    "isDAG": false,
+    "numSCC": 2,
+    "tarjan_ms": 0.0439,
+    "topo_ms": 0.0174,
+    "shortest_ms": 0.0291,
+    "longest_ms": 0.026999
+  },
+  {
+    "id": 2,
+    "category": "small",
+    "nodes": 10,
+    "edges": 9,
+    "isDAG": true,
+    "numSCC": 10,
+    "tarjan_ms": 0.1906,
+    "topo_ms": 0.041001,
+    "shortest_ms": 0.0857,
+    "longest_ms": 0.0752
+  },
+  {
+    "id": 3,
+    "category": "small",
+    "nodes": 9,
+    "edges": 19,
+    "isDAG": true,
+    "numSCC": 9,
+    "tarjan_ms": 0.1125,
+    "topo_ms": 0.0528,
+    "shortest_ms": 0.0946,
+    "longest_ms": 0.0899
+  }
+]

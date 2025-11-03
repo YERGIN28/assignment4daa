@@ -1,0 +1,78 @@
+{
+  "id": 2,
+  "category": "small",
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+  ],
+  "durations": {
+    "A": 12,
+    "B": 11,
+    "C": 14,
+    "D": 4,
+    "E": 10,
+    "F": 13,
+    "G": 2,
+    "H": 14,
+    "I": 2,
+    "J": 10
+  },
+  "edges": [
+    {
+      "from": "B",
+      "to": "D",
+      "w": 1
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "w": 10
+    },
+    {
+      "from": "C",
+      "to": "I",
+      "w": 6
+    },
+    {
+      "from": "D",
+      "to": "G",
+      "w": 8
+    },
+    {
+      "from": "D",
+      "to": "J",
+      "w": 20
+    },
+    {
+      "from": "E",
+      "to": "I",
+      "w": 3
+    },
+    {
+      "from": "G",
+      "to": "H",
+      "w": 13
+    },
+    {
+      "from": "G",
+      "to": "I",
+      "w": 10
+    },
+    {
+      "from": "H",
+      "to": "I",
+      "w": 18
+    }
+  ],
+  "isDAG": true,
+  "numSCC": 10,
+  "meta": "nodes\u003d10 edges\u003d9 isDAG\u003dtrue sccs\u003d10"
+}
