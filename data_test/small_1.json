@@ -1,0 +1,60 @@
+{
+  "id": 1,
+  "category": "small",
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "durations": {
+    "A": 6,
+    "B": 14,
+    "C": 10,
+    "D": 9,
+    "E": 7,
+    "F": 4
+  },
+  "edges": [
+    {
+      "from": "A",
+      "to": "D",
+      "w": 19
+    },
+    {
+      "from": "A",
+      "to": "E",
+      "w": 12
+    },
+    {
+      "from": "B",
+      "to": "C",
+      "w": 14
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "w": 19
+    },
+    {
+      "from": "C",
+      "to": "E",
+      "w": 6
+    },
+    {
+      "from": "C",
+      "to": "F",
+      "w": 3
+    },
+    {
+      "from": "D",
+      "to": "F",
+      "w": 7
+    }
+  ],
+  "isDAG": true,
+  "numSCC": 6,
+  "meta": "nodes\u003d6 edges\u003d7 isDAG\u003dtrue sccs\u003d6"
+}
